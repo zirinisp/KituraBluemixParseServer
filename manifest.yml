@@ -4,5 +4,5 @@ applications:
   instances: 1
   random-route: true
   disk_quota: 1024M
-  command: Kitura-Starter
+  command: KiteSpotterSample
   buildpack: swift_buildpack
