@@ -383,6 +383,7 @@
 
 /* Begin PBXFileReference section */
 		646A77991E27A0E600ADD1A1 /* manifest.yml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = manifest.yml; sourceTree = "<group>"; };
+		64C0C2F21E32258D00234EF7 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		OBJ_100 /* RawBodyParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RawBodyParser.swift; sourceTree = "<group>"; };
 		OBJ_101 /* TextBodyParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBodyParser.swift; sourceTree = "<group>"; };
 		OBJ_102 /* URLEncodedBodyParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URLEncodedBodyParser.swift; sourceTree = "<group>"; };
@@ -806,9 +807,10 @@
 			path = HTTP;
 			sourceTree = "<group>";
 		};
-		OBJ_5 /*  */ = {
+		OBJ_5 = {
 			isa = PBXGroup;
 			children = (
+				64C0C2F21E32258D00234EF7 /* README.md */,
 				646A77991E27A0E600ADD1A1 /* manifest.yml */,
 				OBJ_6 /* Package.swift */,
 				OBJ_7 /* Sources */,
@@ -817,7 +819,6 @@
 				OBJ_130 /* public */,
 				OBJ_131 /* Products */,
 			);
-			name = "";
 			sourceTree = "<group>";
 		};
 		OBJ_52 /* HTTPParser */ = {
@@ -1186,7 +1187,7 @@
 			knownRegions = (
 				en,
 			);
-			mainGroup = OBJ_5 /*  */;
+			mainGroup = OBJ_5;
 			productRefGroup = OBJ_131 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";

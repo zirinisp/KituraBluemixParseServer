@@ -12,11 +12,11 @@
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "98702E24-5407-492E-9250-1F6ED6583CF7",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "40635794C1929E96A4709153927459486D34FA7B" : "KiteSpotterSample2\/Packages\/Kitura-net-1.3.1\/",
-    "43425688648679ECEC3105C3812E3C82D04FD563" : "KiteSpotterSample2\/Packages\/Kitura-1.3.1\/",
-    "77528AA6C8B451D66547916CA3CB970C85CBD7B4" : "KiteSpotterSample2\/Packages\/SSLService-0.12.12\/",
-    "1A81AC7E588BE86E760603555BCE76FB0C611997" : "KiteSpotterSample2\/Packages\/Kitura-TemplateEngine-1.1.0\/",
-    "579E11B1AA6E028D92F7E19319069A45F1E758C9" : "KiteSpotterSample2\/"
+    "40635794C1929E96A4709153927459486D34FA7B" : "KiteSpotterSample\/Packages\/Kitura-net-1.3.1\/",
+    "43425688648679ECEC3105C3812E3C82D04FD563" : "KiteSpotterSample\/Packages\/Kitura-1.3.1\/",
+    "77528AA6C8B451D66547916CA3CB970C85CBD7B4" : "KiteSpotterSample\/Packages\/SSLService-0.12.12\/",
+    "1A81AC7E588BE86E760603555BCE76FB0C611997" : "KiteSpotterSample\/Packages\/Kitura-TemplateEngine-1.1.0\/",
+    "579E11B1AA6E028D92F7E19319069A45F1E758C9" : "KiteSpotterSample\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "KiteSpotterSample",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
