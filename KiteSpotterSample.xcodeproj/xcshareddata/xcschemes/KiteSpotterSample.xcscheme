@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_144"
+               BlueprintIdentifier = "OBJ_988"
                BuildableName = "LoggerAPI.framework"
                BlueprintName = "LoggerAPI"
                ReferencedContainer = "container:KiteSpotterSample.xcodeproj">
@@ -28,7 +28,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_151"
+               BlueprintIdentifier = "OBJ_995"
                BuildableName = "Socket.framework"
                BlueprintName = "Socket"
                ReferencedContainer = "container:KiteSpotterSample.xcodeproj">
@@ -42,7 +42,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_160"
+               BlueprintIdentifier = "OBJ_1004"
                BuildableName = "SSLService.framework"
                BlueprintName = "SSLService"
                ReferencedContainer = "container:KiteSpotterSample.xcodeproj">
@@ -56,7 +56,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_169"
+               BlueprintIdentifier = "OBJ_1013"
                BuildableName = "CHTTPParser.framework"
                BlueprintName = "CHTTPParser"
                ReferencedContainer = "container:KiteSpotterSample.xcodeproj">
@@ -70,7 +70,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_184"
+               BlueprintIdentifier = "OBJ_1028"
                BuildableName = "KituraNet.framework"
                BlueprintName = "KituraNet"
                ReferencedContainer = "container:KiteSpotterSample.xcodeproj">
@@ -84,7 +84,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_232"
+               BlueprintIdentifier = "OBJ_1076"
                BuildableName = "SwiftyJSON.framework"
                BlueprintName = "SwiftyJSON"
                ReferencedContainer = "container:KiteSpotterSample.xcodeproj">
@@ -98,7 +98,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_240"
+               BlueprintIdentifier = "OBJ_1084"
                BuildableName = "KituraTemplateEngine.framework"
                BlueprintName = "KituraTemplateEngine"
                ReferencedContainer = "container:KiteSpotterSample.xcodeproj">
@@ -112,7 +112,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_247"
+               BlueprintIdentifier = "OBJ_1091"
                BuildableName = "Kitura.framework"
                BlueprintName = "Kitura"
                ReferencedContainer = "container:KiteSpotterSample.xcodeproj">
@@ -126,7 +126,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_309"
+               BlueprintIdentifier = "OBJ_1153"
                BuildableName = "HeliumLogger.framework"
                BlueprintName = "HeliumLogger"
                ReferencedContainer = "container:KiteSpotterSample.xcodeproj">
@@ -140,7 +140,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_318"
+               BlueprintIdentifier = "OBJ_1162"
                BuildableName = "CloudFoundryEnv.framework"
                BlueprintName = "CloudFoundryEnv"
                ReferencedContainer = "container:KiteSpotterSample.xcodeproj">
@@ -154,7 +154,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_331"
+               BlueprintIdentifier = "OBJ_1175"
                BuildableName = "CloudFoundryDeploymentTracker.framework"
                BlueprintName = "CloudFoundryDeploymentTracker"
                ReferencedContainer = "container:KiteSpotterSample.xcodeproj">
@@ -168,7 +168,147 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_352"
+               BlueprintIdentifier = "OBJ_1196"
+               BuildableName = "BSON.framework"
+               BlueprintName = "BSON"
+               ReferencedContainer = "container:KiteSpotterSample.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "OBJ_1220"
+               BuildableName = "CryptoKitten.framework"
+               BlueprintName = "CryptoKitten"
+               ReferencedContainer = "container:KiteSpotterSample.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "OBJ_1240"
+               BuildableName = "Socks.framework"
+               BlueprintName = "Socks"
+               ReferencedContainer = "container:KiteSpotterSample.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "OBJ_1253"
+               BuildableName = "SocksCore.framework"
+               BlueprintName = "SocksCore"
+               ReferencedContainer = "container:KiteSpotterSample.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "OBJ_1274"
+               BuildableName = "CLibreSSL.framework"
+               BlueprintName = "CLibreSSL"
+               ReferencedContainer = "container:KiteSpotterSample.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "OBJ_1897"
+               BuildableName = "Core.framework"
+               BlueprintName = "Core"
+               ReferencedContainer = "container:KiteSpotterSample.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "OBJ_1933"
+               BuildableName = "libc.framework"
+               BlueprintName = "libc"
+               ReferencedContainer = "container:KiteSpotterSample.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "OBJ_1940"
+               BuildableName = "TLS.framework"
+               BlueprintName = "TLS"
+               ReferencedContainer = "container:KiteSpotterSample.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "OBJ_1963"
+               BuildableName = "LogKitten.framework"
+               BlueprintName = "LogKitten"
+               ReferencedContainer = "container:KiteSpotterSample.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "OBJ_1980"
+               BuildableName = "MongoKitten.framework"
+               BlueprintName = "MongoKitten"
+               ReferencedContainer = "container:KiteSpotterSample.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "OBJ_2029"
                BuildableName = "KiteSpotterSample"
                BlueprintName = "KiteSpotterSample"
                ReferencedContainer = "container:KiteSpotterSample.xcodeproj">
@@ -199,7 +339,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "OBJ_144"
+            BlueprintIdentifier = "OBJ_988"
             BuildableName = "LoggerAPI.framework"
             BlueprintName = "LoggerAPI"
             ReferencedContainer = "container:KiteSpotterSample.xcodeproj">

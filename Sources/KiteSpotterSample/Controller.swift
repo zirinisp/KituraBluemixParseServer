@@ -54,7 +54,8 @@ public class Controller {
   public func getHello(request: RouterRequest, response: RouterResponse, next: @escaping () -> Void) throws {
     Log.debug("GET - /hello route handler...")
     response.headers["Content-Type"] = "text/plain; charset=utf-8"
-    try response.status(.OK).send("Hello from Kitura-Starter!").end()
+    let kiteSpot = MongoDB.shared.findOneKiteSpot()
+    try response.status(.OK).send("Hello from Kitura-Starter!\n\(kiteSpot)").end()
   }
 
   public func postHello(request: RouterRequest, response: RouterResponse, next: @escaping () -> Void) throws {

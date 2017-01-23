@@ -17,6 +17,76 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>OBJ_1004</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>OBJ_1013</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>OBJ_1028</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>OBJ_1076</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>OBJ_1084</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>OBJ_1091</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>OBJ_1153</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>OBJ_1162</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>OBJ_1175</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>OBJ_1196</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>OBJ_1220</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>OBJ_1240</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>OBJ_1253</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>OBJ_1274</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>OBJ_144</key>
 		<dict>
 			<key>primary</key>
@@ -38,6 +108,36 @@
 			<true/>
 		</dict>
 		<key>OBJ_184</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>OBJ_1897</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>OBJ_1933</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>OBJ_1940</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>OBJ_1963</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>OBJ_1980</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>OBJ_2029</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -73,6 +173,16 @@
 			<true/>
 		</dict>
 		<key>OBJ_352</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>OBJ_988</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>OBJ_995</key>
 		<dict>
 			<key>primary</key>
 			<true/>
